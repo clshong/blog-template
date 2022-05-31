@@ -1,4 +1,4 @@
- # 原创不易，觉得有帮助顺便来个*stat*支持
+ # 原创不易，觉得有帮助顺便来个*star*支持
  
  # 在线体验
   https://goddits.github.io/blog-template/   
