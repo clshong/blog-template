@@ -16,3 +16,5 @@
  # 项目主题
  https://vuepress-theme-reco.recoluan.com/
  
+ # 更多插件
+ https://github.com/mqyqingfeng/Blog/issues/261
